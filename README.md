@@ -872,10 +872,6 @@ to make research exploration **faster, more relevant, and easier for users**.
 
 ````
 
-### One thing to do after pasting
-
-Don't add a fake screenshot yet. Once you take a screenshot of your **working Streamlit app**, create:
-
 ```text
 images/
 └── app_running1.png
